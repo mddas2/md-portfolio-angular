@@ -27,7 +27,25 @@
             "styles": [
               "src/styles.css"
             ],
-            "scripts": []
+            "scripts": [
+                  "src/assets/js/modernizr.custom.js",
+                  "src/assets/js/jquery-3.5.0.min.js",
+                  "src/assets/js/styleswitcher.js",
+                  "src/assets/js/preloader.min.js",
+                  "src/assets/js/fm.revealator.jquery.min.js",
+                  "src/assets/js/imagesloaded.pkgd.min.js",
+                  "src/assets/js/masonry.pkgd.min.js",
+
+                  "src/assets/js/classie.js",
+                  "src/assets/js/check.js",
+                
+                  "src/assets/js/jquery.hoverdir.js",
+                  "src/assets/js/popper.min.js",
+                  "src/assets/js/bootstrap.js",
+                  "src/assets/js/custom.js"
+
+
+            ]
           },
           "configurations": {
             "production": {
@@ -94,5 +112,8 @@
         }
       }
     }
+  },
+  "cli": {
+    "analytics": "125107bb-35d7-467e-836a-e5b6bce27321"
   }
 }

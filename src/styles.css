@@ -1,1 +1,21 @@
 /* You can add global styles to this file, and also import other style files */
+@import 'assets/css/bootstrap.min.css';
+@import 'assets/css/preloader.min.css';
+@import 'assets/css/circle.css';
+@import 'assets/css/font-awesome.min.css';
+@import 'assets/css/fm.revealator.jquery.min.css';
+@import 'assets/css/style.css';
+
+@import 'assets/css/skins/yellow.css';
+
+@import 'assets/css/skins/blue.css';
+@import 'assets/css/skins/green.css';
+@import 'assets/css/skins/yellow.css';
+@import 'assets/css/skins/blueviolet.css';
+@import 'assets/css/skins/goldenrod.css';
+@import 'assets/css/skins/magenta.css';
+@import 'assets/css/skins/orange.css';
+@import 'assets/css/skins/purple.css';
+@import 'assets/css/skins/red.css';
+@import 'assets/css/skins/yellowgreen.css';
+@import 'assets/css/styleswitcher.css'; 
